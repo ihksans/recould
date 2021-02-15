@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.ca0b1cc7.chunk.js",
-    "main.js.map": "/static/js/main.ca0b1cc7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.11b8e660.js",
-    "runtime-main.js.map": "/static/js/runtime-main.11b8e660.js.map",
-    "static/js/2.d7363f3a.chunk.js": "/static/js/2.d7363f3a.chunk.js",
-    "static/js/2.d7363f3a.chunk.js.map": "/static/js/2.d7363f3a.chunk.js.map",
-    "static/js/3.37a772fb.chunk.js": "/static/js/3.37a772fb.chunk.js",
-    "static/js/3.37a772fb.chunk.js.map": "/static/js/3.37a772fb.chunk.js.map",
+    "main.css": "/static/css/main.ae9f0828.chunk.css",
+    "main.js": "/static/js/main.fd37bb92.chunk.js",
+    "main.js.map": "/static/js/main.fd37bb92.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90b9173b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90b9173b.js.map",
+    "static/css/2.e664235e.chunk.css": "/static/css/2.e664235e.chunk.css",
+    "static/js/2.15c31695.chunk.js": "/static/js/2.15c31695.chunk.js",
+    "static/js/2.15c31695.chunk.js.map": "/static/js/2.15c31695.chunk.js.map",
+    "static/js/3.5dd0aae9.chunk.js": "/static/js/3.5dd0aae9.chunk.js",
+    "static/js/3.5dd0aae9.chunk.js.map": "/static/js/3.5dd0aae9.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d7363f3a.chunk.js.LICENSE.txt": "/static/js/2.d7363f3a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "static/css/2.e664235e.chunk.css.map": "/static/css/2.e664235e.chunk.css.map",
+    "static/css/main.ae9f0828.chunk.css.map": "/static/css/main.ae9f0828.chunk.css.map",
+    "static/js/2.15c31695.chunk.js.LICENSE.txt": "/static/js/2.15c31695.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/ikhsan.f88fa413.jpg",
+    "static/media/bc2.0c2a9620.png": "/static/media/bc2.0c2a9620.png",
+    "static/media/bc22.ead2f539.png": "/static/media/bc22.ead2f539.png",
+    "static/media/bc4.c8b349ce.png": "/static/media/bc4.c8b349ce.png",
+    "static/media/mars.43beedf7.png": "/static/media/mars.43beedf7.png",
+    "static/media/roket.9f0da6b2.png": "/static/media/roket.9f0da6b2.png",
+    "static/media/uranus.98e13dc2.png": "/static/media/uranus.98e13dc2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.11b8e660.js",
-    "static/js/2.d7363f3a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ca0b1cc7.chunk.js"
+    "static/js/runtime-main.90b9173b.js",
+    "static/css/2.e664235e.chunk.css",
+    "static/js/2.15c31695.chunk.js",
+    "static/css/main.ae9f0828.chunk.css",
+    "static/js/main.fd37bb92.chunk.js"
   ]
 }
